@@ -11,7 +11,7 @@ Diseñar e implementar una solución en Java que integre colecciones de objetos 
 | Nombre | Correo | Rol / Módulo desarrollado | % de participación |
 |---|---|---|---|
 | Nombre Apellido 1 | correo1@isil.pe | Jerarquía de clases (Producto, subclases, interfaz) | 25% |
-| Nombre Apellido 2 | correo2@isil.pe | Colecciones y unicidad (List, HashSet) | 25% |
+| Katty Cai Zhu | 74201598@isil.pe | Colecciones y unicidad (List, HashSet) | 25% |
 | Rodrigo Solano Leon | 76139087@mail.isil.pe | Búsqueda, ordenamiento y menú | 25% |
 | Gustavo Ugarte Torres | 75399166@mail.isil.pe | Integración, pruebas, README y video | 25% |
 
