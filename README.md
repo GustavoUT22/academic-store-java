@@ -12,7 +12,7 @@ Diseñar e implementar una solución en Java que integre colecciones de objetos 
 |---|---|---|---|
 | Nombre Apellido 1 | correo1@isil.pe | Jerarquía de clases (Producto, subclases, interfaz) | 25% |
 | Nombre Apellido 2 | correo2@isil.pe | Colecciones y unicidad (List, HashSet) | 25% |
-| Nombre Apellido 3 | correo3@isil.pe | Búsqueda, ordenamiento y menú | 25% |
+| Rodrigo Solano Leon | 76139087@mail.isil.pe | Búsqueda, ordenamiento y menú | 25% |
 | Gustavo Ugarte Torres | 75399166@mail.isil.pe | Integración, pruebas, README y video | 25% |
 
 ## División de tareas
@@ -21,7 +21,7 @@ Diseñar e implementar una solución en Java que integre colecciones de objetos 
 |---|---|---|
 | Integrante 1 | Jerarquía de clases | Diseño e implementación de `Producto` (clase abstracta), `ProductoFisico`, `ProductoDigital` y la interfaz `Descontable`, incluyendo la sobrescritura de `mostrarInfo()` en cada subclase. |
 | Integrante 2 | Colecciones y unicidad | Implementación de `List<Producto>` para el registro de productos y `HashSet<String>` para validar la unicidad del código antes de agregar un nuevo producto. |
-| Integrante 3 | Búsqueda, ordenamiento y menú | Implementación de la búsqueda por código y por nombre, el ordenamiento con `Comparator`, y el menú de consola que conecta registrar, listar, buscar y ordenar. |
+| Integrante 3  (Rodrigo Solano Leon) | Búsqueda, ordenamiento y menú | Implementación de la búsqueda por código y por nombre, el ordenamiento con `Comparator`, y el menú de consola que conecta registrar, listar, buscar y ordenar. |
 | Integrante 4 (Gustavo Ugarte Torres) | Integración, pruebas y documentación | Integración de los módulos anteriores en un solo proyecto funcional, pruebas del flujo completo, redacción del README y coordinación de la grabación del video. |
 
 ## Descripción de la solución
