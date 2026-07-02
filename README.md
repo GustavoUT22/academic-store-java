@@ -10,16 +10,16 @@ Diseñar e implementar una solución en Java que integre colecciones de objetos 
 
 | Nombre | Correo | Rol / Módulo desarrollado | % de participación |
 |---|---|---|---|
-| Nombre Apellido 1 | correo1@isil.pe | Jerarquía de clases (Producto, subclases, interfaz) | 25% |
-| Katty Cai Zhu | 74201598@mail.isil.pe | Colecciones y unicidad (List, HashSet) | 25% |
-| Rodrigo Solano Leon | 76139087@mail.isil.pe | Búsqueda, ordenamiento y menú | 25% |
-| Gustavo Ugarte Torres | 75399166@mail.isil.pe | Integración, pruebas, README y video | 25% |
+| Fabricio Santos Rivas | 76192919@mail.isil.pe | Jerarquía de clases (Producto, subclases, interfaz) | 100% |
+| Katty Cai Zhu | 74201598@mail.isil.pe | Colecciones y unicidad (List, HashSet) | 100% |
+| Rodrigo Solano Leon | 76139087@mail.isil.pe | Búsqueda, ordenamiento y menú | 100% |
+| Gustavo Ugarte Torres | 75399166@mail.isil.pe | Integración, pruebas, README y video | 100% |
 
 ## División de tareas
 
 | Integrante | Módulo asignado | Detalle |
 |---|---|---|
-| Integrante 1 | Jerarquía de clases | Diseño e implementación de `Producto` (clase abstracta), `ProductoFisico`, `ProductoDigital` y la interfaz `Descontable`, incluyendo la sobrescritura de `mostrarInfo()` en cada subclase. |
+| Integrante 1 (Fabricio Santos) | Jerarquía de clases | Diseño e implementación de `Producto` (clase abstracta), `ProductoFisico`, `ProductoDigital` y la interfaz `Descontable`, incluyendo la sobrescritura de `mostrarInfo()` en cada subclase. |
 | Integrante 2 (Katty Cai Zhu) | Colecciones y unicidad | Implementación de `List<Producto>` para el registro de productos y `HashSet<String>` para validar la unicidad del código antes de agregar un nuevo producto. |
 | Integrante 3  (Rodrigo Solano Leon) | Búsqueda, ordenamiento y menú | Implementación de la búsqueda por código y por nombre, el ordenamiento con `Comparator`, y el menú de consola que conecta registrar, listar, buscar y ordenar. |
 | Integrante 4 (Gustavo Ugarte Torres) | Integración, pruebas y documentación | Integración de los módulos anteriores en un solo proyecto funcional, pruebas del flujo completo, redacción del README y coordinación de la grabación del video. |
@@ -55,7 +55,7 @@ El sistema implementa además una búsqueda por código/nombre y un ordenamiento
 
 ## Video de explicación
 
-Enlace del video: (agregar enlace de YouTube aquí - cámaras encendidas, explicando cómo resolvieron la evaluación, por qué llegaron a esa solución y qué decisiones tomaron)
+Enlace del video: https://youtu.be/FUoRBWHmbWg
 
 ## Estructura del proyecto
 
