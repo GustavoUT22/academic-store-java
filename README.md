@@ -20,7 +20,7 @@ Diseñar e implementar una solución en Java que integre colecciones de objetos 
 | Integrante | Módulo asignado | Detalle |
 |---|---|---|
 | Integrante 1 | Jerarquía de clases | Diseño e implementación de `Producto` (clase abstracta), `ProductoFisico`, `ProductoDigital` y la interfaz `Descontable`, incluyendo la sobrescritura de `mostrarInfo()` en cada subclase. |
-| Integrante 2 | Colecciones y unicidad | Implementación de `List<Producto>` para el registro de productos y `HashSet<String>` para validar la unicidad del código antes de agregar un nuevo producto. |
+| Integrante 2 (Katty Cai Zhu) | Colecciones y unicidad | Implementación de `List<Producto>` para el registro de productos y `HashSet<String>` para validar la unicidad del código antes de agregar un nuevo producto. |
 | Integrante 3  (Rodrigo Solano Leon) | Búsqueda, ordenamiento y menú | Implementación de la búsqueda por código y por nombre, el ordenamiento con `Comparator`, y el menú de consola que conecta registrar, listar, buscar y ordenar. |
 | Integrante 4 (Gustavo Ugarte Torres) | Integración, pruebas y documentación | Integración de los módulos anteriores en un solo proyecto funcional, pruebas del flujo completo, redacción del README y coordinación de la grabación del video. |
 
